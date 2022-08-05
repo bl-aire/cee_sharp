@@ -1,0 +1,15 @@
+C:\Users\Ogoh Mary\Documents\GAME DEVELOPMENT\ceee_sharp\bin\Debug\net6.0\ceee_sharp.exe
+C:\Users\Ogoh Mary\Documents\GAME DEVELOPMENT\ceee_sharp\bin\Debug\net6.0\ceee_sharp.deps.json
+C:\Users\Ogoh Mary\Documents\GAME DEVELOPMENT\ceee_sharp\bin\Debug\net6.0\ceee_sharp.runtimeconfig.json
+C:\Users\Ogoh Mary\Documents\GAME DEVELOPMENT\ceee_sharp\bin\Debug\net6.0\ceee_sharp.dll
+C:\Users\Ogoh Mary\Documents\GAME DEVELOPMENT\ceee_sharp\bin\Debug\net6.0\ceee_sharp.pdb
+C:\Users\Ogoh Mary\Documents\GAME DEVELOPMENT\ceee_sharp\obj\Debug\net6.0\ceee_sharp.csproj.AssemblyReference.cache
+C:\Users\Ogoh Mary\Documents\GAME DEVELOPMENT\ceee_sharp\obj\Debug\net6.0\ceee_sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ogoh Mary\Documents\GAME DEVELOPMENT\ceee_sharp\obj\Debug\net6.0\ceee_sharp.AssemblyInfoInputs.cache
+C:\Users\Ogoh Mary\Documents\GAME DEVELOPMENT\ceee_sharp\obj\Debug\net6.0\ceee_sharp.AssemblyInfo.cs
+C:\Users\Ogoh Mary\Documents\GAME DEVELOPMENT\ceee_sharp\obj\Debug\net6.0\ceee_sharp.csproj.CoreCompileInputs.cache
+C:\Users\Ogoh Mary\Documents\GAME DEVELOPMENT\ceee_sharp\obj\Debug\net6.0\ceee_sharp.dll
+C:\Users\Ogoh Mary\Documents\GAME DEVELOPMENT\ceee_sharp\obj\Debug\net6.0\refint\ceee_sharp.dll
+C:\Users\Ogoh Mary\Documents\GAME DEVELOPMENT\ceee_sharp\obj\Debug\net6.0\ceee_sharp.pdb
+C:\Users\Ogoh Mary\Documents\GAME DEVELOPMENT\ceee_sharp\obj\Debug\net6.0\ceee_sharp.genruntimeconfig.cache
+C:\Users\Ogoh Mary\Documents\GAME DEVELOPMENT\ceee_sharp\obj\Debug\net6.0\ref\ceee_sharp.dll
